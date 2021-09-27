@@ -1,2 +1,3 @@
 # MyStupidThings
-Some stupid things that i made
+Some codes, and more  things, my official website:
+https://bit.ly/TheManuCode
